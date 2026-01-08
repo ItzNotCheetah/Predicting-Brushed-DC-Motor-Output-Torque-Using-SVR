@@ -1,4 +1,4 @@
-# Robotics Motor Torque Prediction using SVR (RBF Kernel)
+# Robotics Motor Torque Prediction using SVR
 
 ## 📌 Project Overview
 Accurate torque estimation is critical in robotics for motion control, load detection, and fault prevention.  
