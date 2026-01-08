@@ -68,16 +68,6 @@ Motor current was selected as the main feature for visualization because torque 
 
 ---
 
-## 📏 Evaluation Metrics
-Model performance is evaluated using:
-- Root Mean Squared Error (RMSE)
-- Mean Absolute Error (MAE)
-- R² Score
-
-These metrics are relevant for control systems, where large torque prediction errors can negatively affect stability and performance.
-
----
-
 ## 🚀 Results
 The SVR model produces a smooth nonlinear torque curve that:
 - Accurately follows the physical torque–current relationship
